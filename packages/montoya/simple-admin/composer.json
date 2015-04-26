@@ -1,0 +1,13 @@
+{
+  "name": "montoya/simple-admin",
+  "description": "Lorem...",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luis Montoya",
+      "email": "luismec90@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
